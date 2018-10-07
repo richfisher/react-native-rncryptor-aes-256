@@ -16,5 +16,9 @@
   "author": "richfisher",
   "license": "MIT",
   "peerDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:richfisher/react-native-rncryptor-aes-256.git"
   }
 }
